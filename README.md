@@ -11,9 +11,9 @@
    + Put the files in the folder ``.../CARLA_0.9.15/PythonAPI/examples``.
    + Run ``automatic_control_RuleEngine.py``.
 
-## Citation
+## Reference
 
-Please cite our paper if you find the work useful, thanks!
+Please refer to the following GAI paper:
 	
     @article{wang2025governable,
         title={Governable AI: Provable Safety Under Extreme Threat Models},
