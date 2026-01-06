@@ -856,7 +856,7 @@ def main():
     argparser.add_argument(
         '-s', '--seed',
         help='Set seed for repeating executions (default: None)',
-        default=6,
+        default=None,
         type=int)
 
     args = argparser.parse_args()
