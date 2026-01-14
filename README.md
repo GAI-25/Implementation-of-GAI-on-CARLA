@@ -6,6 +6,7 @@
 + Installing necessary packages:
    + python: 3.7.16
    + carla: 0.9.15
+   + experta: 1.9.4
 
 + Usage:
    + Put the files in the folder ``.../CARLA_0.9.15/PythonAPI/examples``.
